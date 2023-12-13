@@ -48,11 +48,11 @@ A "Scroll to Top" button is included for improved user experience. It becomes vi
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
+1. Clone the repository: `[git clone https://github.com/MohcineSafi/Simple-Porfolio.git`
 2. Open `index.html` in a web browser.
 
 ## License
 
-This code is licensed under the [MIT License](LICENSE), allowing for free use and modification.
+This code is licensed under the [MIT License], allowing for free use and modification.
 
 Feel free to customize this code to create your own personal portfolio!
